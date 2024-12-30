@@ -1,2 +1,2 @@
-from HASSAN iAmMain
+from HASSAN import iAmMain
 .iAmMenu()
